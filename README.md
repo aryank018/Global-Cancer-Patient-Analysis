@@ -94,7 +94,7 @@ The dashboard provides insights into how **age, cancer stage, treatment cost, an
 ---
 
 ## 🎥 Project Demo
-👉 [Watch Dashboard Demo]((https://drive.google.com/file/d/1Iy2FfuJ0OlEqL1rcpKrQEpv_SAdxvWTn/view?usp=sharing))
+👉 (https://drive.google.com/file/d/1Iy2FfuJ0OlEqL1rcpKrQEpv_SAdxvWTn/view?usp=sharing)
 
 ---
 
